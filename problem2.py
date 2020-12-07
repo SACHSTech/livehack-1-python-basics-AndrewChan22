@@ -9,7 +9,9 @@ Author:	Chan. A
 Created:	date in 12/07/2020
 -------------------------------------------------------------------------
 '''
+# intro
 print("Mr. Fabroa's class won a contest!")
+
 # user inputs number of student
 students = int(input("Enter the number of students in class: "))
 
